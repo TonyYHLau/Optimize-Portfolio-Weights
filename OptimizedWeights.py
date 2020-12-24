@@ -35,7 +35,6 @@ data = data.dropna()
 
 data.to_excel('stock_data.xlsx')
 
-#将date列从newdata中踢出
 date = data.pop('date')
 
 newdata = (data/data.iloc[0, :])*100
