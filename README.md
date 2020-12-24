@@ -1,1 +1,1 @@
-# Calculate efficient frontier and optimize portfolio weights
+# Calculate the efficient frontier and optimize portfolio weights
